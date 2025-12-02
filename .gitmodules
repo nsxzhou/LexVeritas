@@ -1,12 +1,12 @@
 [submodule "lex-veritas-backend"]
 	path = lex-veritas-backend
-	url = file:///tmp/lexveritas-submodules/lex-veritas-backend
+	url = https://github.com/nsxzhou/lex-veritas-backend.git
 [submodule "lex-veritas-blockchain"]
 	path = lex-veritas-blockchain
-	url = file:///tmp/lexveritas-submodules/lex-veritas-blockchain
+	url = https://github.com/nsxzhou/lex-veritas-blockchain.git
 [submodule "lex-veritas-frontend"]
 	path = lex-veritas-frontend
-	url = file:///tmp/lexveritas-submodules/lex-veritas-frontend
+	url = https://github.com/nsxzhou/lex-veritas-frontend.git
 [submodule "lex-veritas-ingestion"]
 	path = lex-veritas-ingestion
-	url = file:///tmp/lexveritas-submodules/lex-veritas-ingestion
+	url = https://github.com/nsxzhou/lex-veritas-ingestion.git
