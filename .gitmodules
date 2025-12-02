@@ -1,0 +1,12 @@
+[submodule "lex-veritas-backend"]
+	path = lex-veritas-backend
+	url = file:///tmp/lexveritas-submodules/lex-veritas-backend
+[submodule "lex-veritas-blockchain"]
+	path = lex-veritas-blockchain
+	url = file:///tmp/lexveritas-submodules/lex-veritas-blockchain
+[submodule "lex-veritas-frontend"]
+	path = lex-veritas-frontend
+	url = file:///tmp/lexveritas-submodules/lex-veritas-frontend
+[submodule "lex-veritas-ingestion"]
+	path = lex-veritas-ingestion
+	url = file:///tmp/lexveritas-submodules/lex-veritas-ingestion
